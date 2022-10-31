@@ -1,0 +1,14 @@
+button {
+        color: rgb(252, 252, 252);
+        background-color: cadetblue;
+        border-radius: 7px;
+ }
+
+ :hover button {
+        color: aquamarine;
+        background-color: indigo;
+ }
+ :active button {
+    color: red;
+    background-color: red;
+ }
